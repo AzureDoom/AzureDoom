@@ -20,8 +20,8 @@ I'm a developer focused on building tools, mods, and systems around sandbox and 
 
 ### 🔹 Current Focus (Hytale)
 
-* **LevelingCore** – A modern, flexible leveling system for Hytale.
-* **ClassesCore** – Classes Module for the LevelingCore mod.
+* **LevelingCore (Java)** – A modern, flexible leveling system for Hytale.
+* **ClassesCore (Java)** – Classes Module for the LevelingCore mod.
 * **Hytale Gradle Plugin (Groovy)** – Gradle plugin for AzureDooms Hytale mods.
 * **Modtale & CurseForge Discord Release Bot (Python)** – Automates Modtale & CurseForge update notifications via Discord.
 
