@@ -24,6 +24,10 @@ I'm a developer focused on building tools, mods, and systems around sandbox and 
 
 * **[LevelingCore](https://github.com/AzureDoom/LevelingCore) (Java)** – A modern, flexible leveling system for Hytale.
 * **[ClassesCore](https://github.com/AzureDoom/ClassesCore) (Java)** – Modular class system built on LevelingCore
+* **[TagCore](https://github.com/AzureDoom/TagCore) (Java)** –  A unified tagging API for items, blocks, and entities, enabling cross-mod compatibility 
+* **[AssetBridge](https://github.com/AzureDoom/AssetBridge) (Java)** –  Lightweight runtime bridge for integrating Asset Editor packs into Hytale plugins. 
+* **[Hytale-Custom-Asset-Loader](https://github.com/AzureDoom/Hytale-Custom-Asset-Loader) (Java)** –  Generic loader for Hytale-style custom assets stored as files on the classpath or inside external asset packs 
+* **[Transmog---DynamicTooltipsLib-Addon](https://github.com/AzureDoom/Transmog---DynamicTooltipsLib-Addon) (Java)** –  Adds commands that uses DynamicTooltipsLib Visual Overrides system to transmog items
 * **[Hytale Gradle Plugin](https://github.com/AzureDoom/Hytale-Gradle-Plugin) (Groovy)** – Streamlines Hytale mod development
 * **[Modtale & CurseForge Discord Release Bot](https://github.com/AzureDoom/Modtale-CurseForge-Discord-Release-Bot) (Python)** – Automates Modtale & CurseForge update notifications via Discord
 
